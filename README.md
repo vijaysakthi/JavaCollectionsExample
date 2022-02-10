@@ -1,2 +1,2 @@
 # JavaCollectionsExample
-This repo is used to explain the core concepts of collections
+This repo is used to explain the Map concept of collections
